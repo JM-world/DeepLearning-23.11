@@ -1,6 +1,7 @@
 # 추가
 models/
 data/
+keys/
 credits.csv         
 # 사이즈가 너무 큼, kaggle Movies dataset
 
